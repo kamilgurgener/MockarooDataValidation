@@ -177,8 +177,8 @@ public class MockarooDataValidation {
 		cityLong = cities.get(i);
 		}
 	}
-	System.out.println("The city with shortest name in the list is: "+cityShort);
-	System.out.println("The city with longest name in the list is: "+cityLong);
+	System.out.println("The city with mindest name in the list is: "+cityShort);
+	System.out.println("The city with shortest name in the list is: "+cityLong);
 
 	//==============================  #23  ========================================
 
